@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "three on row", "three on row\three on row\three on row.csproj", "{6B26F07E-C1EC-4A54-988F-E74F8951E075}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "three on rowContent", "three on row\three on rowContent\three on rowContent.contentproj", "{8E2E01E8-71E6-4155-AA5C-F65E26DBD845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B26F07E-C1EC-4A54-988F-E74F8951E075}.Debug|x86.ActiveCfg = Debug|x86
+		{6B26F07E-C1EC-4A54-988F-E74F8951E075}.Debug|x86.Build.0 = Debug|x86
+		{6B26F07E-C1EC-4A54-988F-E74F8951E075}.Release|x86.ActiveCfg = Release|x86
+		{6B26F07E-C1EC-4A54-988F-E74F8951E075}.Release|x86.Build.0 = Release|x86
+		{8E2E01E8-71E6-4155-AA5C-F65E26DBD845}.Debug|x86.ActiveCfg = Debug|x86
+		{8E2E01E8-71E6-4155-AA5C-F65E26DBD845}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

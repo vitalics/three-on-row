@@ -1,0 +1,6 @@
+D:\С #\three on row\three on row\three on row\bin\x86\Debug\three on row.exe
+D:\С #\three on row\three on row\three on row\bin\x86\Debug\three on row.pdb
+D:\С #\three on row\three on row\three on row\obj\x86\Debug\three on row.csprojResolveAssemblyReference.cache
+D:\С #\three on row\three on row\three on row\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\С #\three on row\three on row\three on row\obj\x86\Debug\three on row.exe
+D:\С #\three on row\three on row\three on row\obj\x86\Debug\three on row.pdb
